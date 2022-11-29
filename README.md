@@ -1,7 +1,7 @@
 ![logo](https://user-images.githubusercontent.com/68918326/193332767-8248edfa-cf76-4032-8eed-05bf3037838c.PNG)
 
 <hr>
-<h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
+<h3 align="center">🎖️PROJETO FINALIZADO🎖️</h3>
 <hr>
 
 <h1 align="center">Estudos TypeScript</h1>
@@ -29,5 +29,5 @@
 
 
 <hr>
-<h3 align="center">🎖️PROJETO EM CONSTRUÇÃO🎖️</h3>
+<h3 align="center">🎖️PROJETO FINALIZADO🎖️</h3>
 <hr>
